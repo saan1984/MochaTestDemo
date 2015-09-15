@@ -1,0 +1,17 @@
+{
+  "name": "mocha-test-demo",
+  "version": "1.0.0",
+  "description": "Mocha Testing framework demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Mocha"
+  ],
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  }
+}
